@@ -13,7 +13,7 @@ The test cases are included in the solution files.
 ## Status
 Project is: _in progress_.
 
-Solutions are get added and updated on a regular basis. It's an active repository. 
+Solutions are added and updated on a regular basis. It's an active repository. 
 
 ## Chapters Solved 
 Solutions are available for the following chapters currently:
