@@ -1,5 +1,11 @@
 # Cracking The Coding Interview - 6th Ed.
 
+![](https://img.shields.io/badge/language-Python-green.svg)
+![](https://img.shields.io/badge/%3E-Cracking_the_Coding_Interview-yellow.svg)
+![](https://img.shields.io/badge/Edition-6th-blue.svg)
+
+# Description
+
 This repository contains chapter-wise solutions to the 6th edition of ['Cracking the Coding Interview'](http://www.crackingthecodinginterview.com/) by Gayle Laakmann McDowell. 
 
 
