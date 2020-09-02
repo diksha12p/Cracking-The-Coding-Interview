@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/%3E-Cracking_the_Coding_Interview-yellow.svg)
 ![](https://img.shields.io/badge/Edition-6th-blue.svg)
 
-# Description
+## Description
 
 This repository contains chapter-wise solutions to the 6th edition of ['Cracking the Coding Interview'](http://www.crackingthecodinginterview.com/) by Gayle Laakmann McDowell. 
 
