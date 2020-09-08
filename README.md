@@ -27,3 +27,4 @@ Solutions are available for the following chapters currently:
 * Chapter 2: Linked Lists
 * Chapter 3: Stacks and Queues
 * Chapter 4: Trees and Graphs
+* Chapter 8: Recursion and Dynamic Programming
